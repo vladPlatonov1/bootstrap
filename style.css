@@ -26,3 +26,8 @@
 .bg-light {
   background-color: #f8f9fa !important;
 }
+
+img {
+  padding:20px;
+  filter:grayscale(50%);
+}
