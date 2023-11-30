@@ -18,3 +18,11 @@
     transform: scale(1);
   }
 }
+.bg-primary {
+  background-color: #007bff !important; 
+  color: #fff; 
+}
+
+.bg-light {
+  background-color: #f8f9fa !important;
+}
