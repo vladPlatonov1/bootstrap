@@ -1,9 +1,7 @@
-.logo {
-  width: 150px; 
-}
+
 
 .animated-element {
-
+  width: 200px;
   animation: scaleAnimation 2s ease-in-out infinite;
 }
 
