@@ -31,3 +31,8 @@ img {
   padding:20px;
   filter:grayscale(50%);
 }
+
+div {
+  padding: 100px;
+  background-color: crimson;
+}
