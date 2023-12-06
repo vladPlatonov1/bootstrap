@@ -33,6 +33,7 @@ img {
 }
 
 div {
+  margin: 1px;
   padding: 100px;
   background-color: crimson;
 }
